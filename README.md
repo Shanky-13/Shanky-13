@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Shanky-13
+- 👋 Hi, I’m Shashank Singh.
 - 👀 I’m interested in Coding, Reading & Esports.
-- 🌱 I’m currently learning Computer Science Engineering spec. in AI & ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Electronics and Communication Engineering
+- 💞️ I’m looking to collaborate on  AI applications in assistive technology, automation, IoT, and hardware integration.
+- 📫 Email: 2k22.ece.2213346@gmail.com
+- 📫 LinkedIn: linkedin.com/in/shashank-singh-79632a337
 
 <!---
 Shanky-13/Shanky-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
